@@ -1,0 +1,23 @@
+body{
+    background-image: url(video/mylivewallpapers-com-Underwater-Moon-4K.mp4);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+h1{
+    font-family: 'Reddit Mono', cursive;
+}
+
+h2{
+    font-family: 'Reddit Mono', cursive;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    text-align: center;
+    border: 2px solid #fff;
+    background: #f8b0b0;
+    color: #361536;
+    box-shadow: 1px 1px 2px #c69b7b;
+    border-radius: 10px;
+    padding: 3px 10px;
+    cursor: pointer;
+}
